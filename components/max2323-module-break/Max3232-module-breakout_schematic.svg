@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="126.87505"
+   height="122.41548"
+   viewBox="0 0 35.806971 34.548378"
+   id="svg7590"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Max3232-module-breakout_schematic.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="871"
+     id="namedview73"
+     showgrid="false"
+     inkscape:zoom="1.3198353"
+     inkscape:cx="-172.23275"
+     inkscape:cy="-31.374508"
+     inkscape:window-x="52"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="schematic"
+     units="mm"
+     inkscape:document-units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <desc
+     id="desc7592">
+    <referenceFile
+       id="referenceFile7594">sparkfun-digitalic_max232_schematic.svg</referenceFile>
+  </desc>
+  <metadata
+     id="metadata7740">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7738" />
+  <g
+     transform="translate(0,-1.3923537e-6)"
+     id="schematic">
+    <text
+       x="17.9035"
+       y="20.913799"
+       id="label"
+       style="font-size:1.49931002px;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans" />
+    <line
+       y1="5.2034702"
+       y2="5.2034702"
+       x1="5.2034702"
+       x2="30.6035"
+       class="other"
+       id="line7600"
+       style="stroke:#000000;stroke-width:0.3175;stroke-linecap:round" />
+    <line
+       y1="29.170788"
+       y2="5.2034702"
+       x1="30.6035"
+       x2="30.6035"
+       class="other"
+       id="line7602"
+       style="stroke:#000000;stroke-width:0.27049842;stroke-linecap:round" />
+    <line
+       y1="29.375587"
+       y2="29.375587"
+       x1="30.6035"
+       x2="5.2034702"
+       class="other"
+       id="line7604"
+       style="stroke:#000000;stroke-width:0.3175;stroke-linecap:round" />
+    <line
+       y1="5.2034702"
+       y2="29.170788"
+       x1="5.2034702"
+       x2="5.2034702"
+       class="other"
+       id="line7606"
+       style="stroke:#000000;stroke-width:0.27049842;stroke-linecap:round" />
+    <line
+       connectorname="C1+"
+       y1="7.7434702"
+       y2="7.7434702"
+       x1="0.123472"
+       x2="5.2034702"
+       class="pin"
+       id="connector0pin"
+       gorn="0.0.6"
+       style="stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+    <rect
+       width="9.9999997e-05"
+       height="9.9999997e-05"
+       x="0.123472"
+       y="7.7434702"
+       id="connector0terminal"
+       style="fill:none;stroke:none" />
+    <text
+       x="2.66347"
+       y="7.3730602"
+       id="text7610"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3055">1</tspan>
+    </text>
+    <text
+       x="5.9443002"
+       y="7.9904199"
+       id="text7612"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#787878;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3003">RS232 RX</tspan>
+    </text>
+    <line
+       connectorname="C1-"
+       y1="12.8235"
+       y2="12.8235"
+       x1="0.123472"
+       x2="5.2034702"
+       class="pin"
+       id="connector1pin"
+       gorn="0.0.10"
+       style="stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+    <rect
+       width="9.9999997e-05"
+       height="9.9999997e-05"
+       x="0.123472"
+       y="12.8235"
+       id="connector2terminal"
+       style="fill:none;stroke:none" />
+    <text
+       x="2.66347"
+       y="12.4531"
+       id="text7616"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3008">2</tspan>
+    </text>
+    <text
+       x="5.9443002"
+       y="13.0704"
+       id="text7618"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#787878;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3011">RS232 TX</tspan>
+    </text>
+    <line
+       connectorname="C2+"
+       y1="17.9035"
+       y2="17.9035"
+       x1="0.123472"
+       x2="5.2034702"
+       class="pin"
+       id="connector2pin"
+       gorn="0.0.14"
+       style="stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+    <rect
+       width="9.9999997e-05"
+       height="9.9999997e-05"
+       x="0.123472"
+       y="17.9035"
+       id="connector3terminal"
+       style="fill:none;stroke:none" />
+    <text
+       x="2.66347"
+       y="17.5331"
+       id="text7622"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3016">3</tspan>
+    </text>
+    <text
+       x="5.9443002"
+       y="18.1504"
+       id="text7624"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#787878;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3019">VCC</tspan>
+    </text>
+    <line
+       connectorname="C2-"
+       y1="22.9835"
+       y2="22.9835"
+       x1="0.123472"
+       x2="5.2034702"
+       class="pin"
+       id="connector3pin"
+       gorn="0.0.18"
+       style="stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+    <rect
+       width="9.9999997e-05"
+       height="9.9999997e-05"
+       x="0.123472"
+       y="22.9835"
+       id="connector4terminal"
+       style="fill:none;stroke:none" />
+    <text
+       x="2.66347"
+       y="22.6131"
+       id="text7628"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3024">4</tspan>
+    </text>
+    <text
+       x="5.9443002"
+       y="23.2304"
+       id="text7630"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#787878;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3027">GND</tspan>
+    </text>
+    <rect
+       width="9.9999997e-05"
+       height="9.9999997e-05"
+       x="0.123472"
+       y="28.063499"
+       id="connector10terminal"
+       style="fill:none;stroke:none" />
+    <rect
+       width="9.9999997e-05"
+       height="9.9999997e-05"
+       x="0.123472"
+       y="30.6035"
+       id="connector9terminal"
+       style="fill:none;stroke:none" />
+    <line
+       connectorname="V+"
+       y1="10.2835"
+       y2="10.2835"
+       x1="35.683498"
+       x2="30.6035"
+       class="pin"
+       id="connector6pin"
+       gorn="0.0.38"
+       style="stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+    <rect
+       width="9.9999997e-05"
+       height="9.9999997e-05"
+       x="35.683498"
+       y="10.2835"
+       id="connector1terminal"
+       style="fill:none;stroke:none" />
+    <text
+       x="33.143501"
+       y="9.9130602"
+       id="text7658"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3034">7</tspan>
+    </text>
+    <text
+       x="24.343739"
+       y="10.5304"
+       id="text7660"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#787878;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3037">TTL - RX</tspan>
+    </text>
+    <line
+       connectorname="V-"
+       y1="15.3635"
+       y2="15.3635"
+       x1="35.683498"
+       x2="30.6035"
+       class="pin"
+       id="connector7pin"
+       gorn="0.0.42"
+       style="stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       inkscape:label="#connector7pin" />
+    <rect
+       width="9.9999997e-05"
+       height="9.9999997e-05"
+       x="35.683498"
+       y="15.3635"
+       id="connector5terminal"
+       style="fill:none;stroke:none" />
+    <text
+       x="33.143501"
+       y="14.9931"
+       id="text7664"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3042">8</tspan>
+    </text>
+    <text
+       x="24.41934"
+       y="15.6104"
+       id="text7666"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#787878;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3045">TTL - TX</tspan>
+    </text>
+    <rect
+       width="9.9999997e-05"
+       height="9.9999997e-05"
+       x="35.683498"
+       y="28.063499"
+       id="connector13terminal"
+       style="fill:none;stroke:none" />
+    <rect
+       width="9.9999997e-05"
+       height="9.9999997e-05"
+       x="35.683498"
+       y="30.6035"
+       id="connector6terminal"
+       style="fill:none;stroke:none" />
+    <line
+       connectorname="GND"
+       y1="34.424908"
+       y2="29.344906"
+       x1="17.9035"
+       x2="17.9035"
+       class="pin"
+       id="connector4pin"
+       gorn="0.0.62"
+       style="stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+    <text
+       x="-31.884907"
+       y="17.5331"
+       id="text7702"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3051">5</tspan>
+    </text>
+    <text
+       x="-28.755207"
+       y="18.563643"
+       id="text7712"
+       style="font-size:1.23471999px;text-anchor:start;fill:#787878;stroke:none;font-family:Droid Sans"
+       transform="matrix(0,-1,1,0,0,0)">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3057">GND</tspan>
+    </text>
+    <line
+       connectorname="VCC"
+       y1="0.123472"
+       y2="5.2034702"
+       x1="17.9035"
+       x2="17.9035"
+       class="pin"
+       id="connector5pin"
+       gorn="0.0.66"
+       style="stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+    <rect
+       width="9.9999997e-05"
+       height="9.9999997e-05"
+       x="17.9035"
+       y="0.123472"
+       id="connector15terminal"
+       style="fill:none;stroke:none" />
+    <text
+       x="-2.66347"
+       y="17.5331"
+       id="text7724"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3058">6</tspan>
+    </text>
+    <text
+       x="-9.0747223"
+       y="18.714844"
+       id="text7734"
+       style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#787878;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)">
+      <tspan
+         style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3061">VCC</tspan>
+    </text>
+    <g
+       id="g3050"
+       transform="matrix(1.6969108,0,0,1.6969108,-18.669253,-16.364144)">
+      <text
+         style="font-size:1.49931002px;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans"
+         id="text7742"
+         y="20.405882"
+         x="18.39275">
+        <tspan
+           style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+           id="tspan3065">MAX3232</tspan>
+      </text>
+      <text
+         style="font-size:1.49931002px;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans"
+         id="text7748"
+         y="22.063875"
+         x="17.811493">
+        <tspan
+           style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+           id="tspan3068">BREAKOUT</tspan>
+      </text>
+      <text
+         style="font-size:1.49931002px;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans"
+         id="text7754"
+         y="23.664255"
+         x="18.573824">
+        <tspan
+           style="font-size:1.69333386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+           id="tspan3071">MODULE</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
